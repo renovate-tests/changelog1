@@ -2,7 +2,7 @@
   "name": "changelog1",
   "version": "0.0.1",
   "dependencies": {
-    "@angular/cli": "6.0.0"
+    "@angular/cli": "6.2.3"
   },
   "renovate": {}
 }
